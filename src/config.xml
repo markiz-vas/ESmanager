@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="info.oziabr.ESmanager" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>ESmanager</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="oziabr@gmail.com" href="http://oziabr.info">
+        Oziabr
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+		<platform name="android">
+
+			<icon src="res/android/drawable-ldpi/icon.png" density="ldpi" />
+			<icon src="res/android/drawable-mdpi/icon.png" density="mdpi" />
+			<icon src="res/android/drawable-hdpi/icon.png" density="hdpi" />
+			<icon src="res/android/drawable-xhdpi/icon.png" density="xhdpi" />
+			<icon src="res/android/drawable-xxhdpi/icon.png" density="xxhdpi" />
+
+			<splash src="res/android/drawable-ldpi/screen.png" density="port-ldpi" />
+			<splash src="res/android/drawable-mdpi/screen.png" density="port-mdpi" />
+			<splash src="res/android/drawable-hdpi/screen.png" density="port-hdpi" />
+			<splash src="res/android/drawable-xhdpi/screen.png" density="port-xhdpi" />
+			<splash src="res/android/drawable-xxhdpi/screen.png" density="port-xxhdpi" />
+			
+			<splash src="res/android/drawable-land-ldpi/screen.png" density="land-ldpi" />
+			<splash src="res/android/drawable-land-mdpi/screen.png" density="land-mdpi" />
+			<splash src="res/android/drawable-land-hdpi/screen.png" density="land-hdpi" />
+			<splash src="res/android/drawable-land-xhdpi/screen.png" density="land-xhdpi" />
+			<splash src="res/android/drawable-land-xxhdpi/screen.png" density="land-xxhdpi" />
+			
+    </platform>
+</widget>
