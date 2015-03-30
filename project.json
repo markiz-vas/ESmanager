@@ -29,7 +29,8 @@
          "files":
          [
             "zhenya.rpy",
-            "zhenya_eng.rpy"
+            "zhenya_eng.rpy",
+            "/sounds/door-bell.ogg"
          ]
       }
    ]
