@@ -1,11 +1,33 @@
 {
    "appTitle": "Установщик дополнений для Everlasting Summer",
-   "packs": [
+   "packs": 
+   [
       {
          "title": "Сценарий \"Алиса\"",
          "uri": "http://191.ru/es/scenario_alice/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/scenario_alice/",
-         "files": [
+         "files":
+         [
+            "akkum1.mp3",
+            "akkum2.mp3",
+            "akkum4.wav",
+            "detonate.mp3",
+            "door.mp3",
+            "ext_boat.jpg",
+            "ext_stage_big_day.png",
+            "ext_storage_day.png",
+            "ext_storage_night.png",
+            "genda.rpy",
+            "nasheed.mp3"
+         ]
+      }
+      ,
+      {
+         "title": "Сценарий \"Алиса\"",
+         "uri": "http://191.ru/es/scenario_alice/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/scenario_alice/",
+         "files":
+         [
             "akkum1.mp3",
             "akkum2.mp3",
             "akkum4.wav",
