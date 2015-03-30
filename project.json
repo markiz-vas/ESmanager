@@ -3,7 +3,7 @@
    "packs": 
    [
       {
-         "title": "Сценарий \"Алиса\"",
+         "title": "День с Алисой",
          "uri": "http://191.ru/es/scenario_alice/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/scenario_alice/",
          "files":
@@ -23,22 +23,13 @@
       }
       ,
       {
-         "title": "Сценарий \"Алиса\"",
-         "uri": "http://191.ru/es/scenario_alice/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/scenario_alice/",
+         "title": "История одного пионера",
+         "uri": "http://191.ru/es/zhenya/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/zhenya/",
          "files":
          [
-            "akkum1.mp3",
-            "akkum2.mp3",
-            "akkum4.wav",
-            "detonate.mp3",
-            "door.mp3",
-            "ext_boat.jpg",
-            "ext_stage_big_day.png",
-            "ext_storage_day.png",
-            "ext_storage_night.png",
-            "genda.rpy",
-            "nasheed.mp3"
+            "zhenya.rpy",
+            "zhenya_eng.rpy"
          ]
       }
    ]
