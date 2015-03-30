@@ -30,7 +30,21 @@
          [
             "zhenya.rpy",
             "zhenya_eng.rpy",
-            "/sounds/door-bell.ogg"
+            "/sounds/door-bell.ogg",
+            "/sounds/free-love.mp3",
+            "/sounds/heavy_breathing.ogg",
+            "/sounds/just_another_summer_day.mp3",
+            "/sounds/punch.ogg",
+            "/sounds/reflection.mp3",
+            "/sounds/smoking.ogg",
+            "/images/blink.png",
+            "/images/blood.png",
+            "/images/memoryfade.png",
+            "/images/mz_3_crysmile.png",
+            "/images/mz_irl.png",
+            "/images/zhenya1.jpg",
+            "/images/zhenya2.jpg",
+            "/images/zhenya3.jpg",
          ]
       }
    ]
