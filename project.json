@@ -20,8 +20,7 @@
             "genda.rpy",
             "nasheed.mp3"
          ]
-      }
-      ,
+      },
       {
          "title": "История одного пионера",
          "uri": "http://191.ru/es/zhenya/",
@@ -46,7 +45,25 @@
             "images/zhenya2.jpg",
             "images/zhenya3.jpg" 
          ]
-      }
+      },
+      {
+         "title": "zip test",
+         "uri": "http://oziabr.info:8100/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/ziptest/",
+         "files":
+         [
+            "valid.zip"
+         ]
+      },
+      {
+         "title": "zip fail test",
+         "uri": "http://oziabr.info:8100/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/ziptest/",
+         "files":
+         [
+            "invalid.zip"
+         ]
+      },
    ]
 }
 
