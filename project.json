@@ -56,9 +56,9 @@
          ]
       },
       {
-         "title": "zip fail test",
+         "title": "День с алисой из Zip",
          "uri": "http://191.ru/es/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/scenario_alice/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
          [
             "scenario_alice.zip"
