@@ -57,11 +57,11 @@
       },
       {
          "title": "zip fail test",
-         "uri": "http://oziabr.info:8100/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/ziptest/",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/zhenya/",
          "files":
          [
-            "invalid.zip"
+            "scenario_alice.zip"
          ]
       }
    ]
