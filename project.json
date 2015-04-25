@@ -47,12 +47,12 @@
          ]
       },
       {
-         "title": "zip test",
-         "uri": "http://oziabr.info:8100/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/ziptest/",
+         "title": "Зимнее Чудо",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/wintermiracle/",
          "files":
          [
-            "valid.zip"
+            "wintermiracle.zip"
          ]
       },
       {
