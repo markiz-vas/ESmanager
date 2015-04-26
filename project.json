@@ -47,6 +47,24 @@
          ]
       },
       {
+         "title": "Второй шанс",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/scenario_2chance/",
+         "files":
+         [
+            "sc_android.zip"
+         ]
+      },
+      {
+         "title": "ОД РУТ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/rut_olga/",
+         "files":
+         [
+            "rut_olga.zip"
+         ]
+      },
+      {
          "title": "Зимнее Чудо",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/wintermiracle/",
