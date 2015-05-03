@@ -92,12 +92,21 @@
          ]
       },
       {
-         "title": "Саманта.",
+         "title": "Саманта мод",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
          [
             "samantha.zip"
+         ]
+      },
+     {
+         "title": "Грибная поляна",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "mushrooms.zip"
          ]
       },
       {
