@@ -22,7 +22,7 @@
          ]
       },
       {
-         "title": "История одного пионера",
+         "title": "История одного пионера ",
          "uri": "http://191.ru/es/zhenya/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/zhenya/",
          "files":
@@ -53,6 +53,15 @@
          "files":
          [
             "sc_android.zip"
+         ]
+      },
+     {
+         "title": "7 дней лета",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "scenario_alt.zip"
          ]
       },
       {
