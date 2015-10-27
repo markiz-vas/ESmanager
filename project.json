@@ -94,6 +94,24 @@
          ]
       },
       {
+         "title": "Драйв",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "drive_mod.zip"
+         ]
+      },
+      {
+         "title": "Забытый пионер",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "anon_pioneer.zip"
+         ]
+      },
+      {
          "title": "Двое в автобусе",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
