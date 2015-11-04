@@ -3,7 +3,52 @@
    "packs": 
    [
       {
-         "title": "День с Алисой",
+         "title": "Perfect girl (Eng) [окончен] ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "perfect_girl.zip"
+         ]
+      },   
+      {
+         "title": "To go beyond (Eng) [окончен] ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "to_go_beyond.zip"
+         ]
+      },      
+      {
+         "title": "Восьмой день недели [окончен] ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "day8.zip"
+         ]
+      },      
+      {
+         "title": "Грибная поляна [окончен] ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "mushrooms.zip"
+         ]
+      },      
+      {
+         "title": "Двое в автобусе [окончен] ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "2_in_a_bus.zip"
+         ]
+      },      
+      {
+         "title": "День с Алисой [окончен] ",
          "uri": "http://191.ru/es/scenario_alice/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/scenario_alice/",
          "files":
@@ -22,43 +67,34 @@
          ]
       },
       {
-         "title": "Переход на конкретный рут",
+         "title": "Забытый пионер [окончен] ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
          [
-            "route.zip"
+            "anon_pioneer.zip"
          ]
-      },
+      },      
       {
-         "title": "Второй шанс",
+         "title": "Зимнее Чудо [окончен] ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
          [
-            "scenario_2chance_android.zip"
+            "wintermiracle.zip"
          ]
-      },
-     {
-         "title": "7 дней лета",
-         "uri": "http://191.ru/es/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
-         "files":
-         [
-            "7_dney_leta.zip"
-         ]
-      },
+      },      
       {
-         "title": "Мизулин мод (18+)",
+         "title": "Мизулин мод (18+) [окончен] ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
          [
             "hentai_android.zip"
          ]
-      },
+      },      
       {
-         "title": "Мику-рут",
+         "title": "Мику-рут (для оригинального сценария) [окончен]",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
@@ -67,7 +103,25 @@
          ]
       },
       {
-         "title": "Рут Ольга из Заветов пионера",
+         "title": "Назад в детство (Юльяна-мод) [окончен] ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "yulyana.zip"
+         ]
+      },
+      {
+         "title": "Не Такая любовь [окончен] ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "NotSuchLove.zip"
+         ]
+      },
+      {
+         "title": "Рут Ольга из Заветов пионера [окончен] ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
@@ -76,88 +130,16 @@
          ]
       },
       {
-         "title": "Зимнее Чудо",
+         "title": "Совенок в тумане [окончен] ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
          [
-            "wintermiracle.zip"
+            "vkun.zip"
          ]
-      },
-     {
-         "title": "To go beyond",
-         "uri": "http://191.ru/es/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
-         "files":
-         [
-            "to_go_beyond.zip"
-         ]
-      },
+      },     
       {
-         "title": "Драйв",
-         "uri": "http://191.ru/es/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
-         "files":
-         [
-            "drive_mod.zip"
-         ]
-      },
-      {
-         "title": "Забытый пионер",
-         "uri": "http://191.ru/es/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
-         "files":
-         [
-            "anon_pioneer.zip"
-         ]
-      },
-      {
-         "title": "Двое в автобусе",
-         "uri": "http://191.ru/es/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
-         "files":
-         [
-            "2_in_a_bus.zip"
-         ]
-      },
-      {
-         "title": "Саманта мод",
-         "uri": "http://191.ru/es/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
-         "files":
-         [
-            "samantha.zip"
-         ]
-      },
-      {
-         "title": "Одинокий Совенок",
-         "uri": "http://191.ru/es/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
-         "files":
-         [
-            "LonelySovenok.zip"
-         ]
-      },
-      {
-         "title": "НеТакая любовь",
-         "uri": "http://191.ru/es/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
-         "files":
-         [
-            "NotSuchLove.zip"
-         ]
-      },
-            {
-         "title": "Назад в детство-Юльяна-мод",
-         "uri": "http://191.ru/es/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
-         "files":
-         [
-            "yulyana.zip"
-         ]
-      },
-     {
-         "title": "Утренняя прогулка",
+         "title": "Утренняя прогулка [окончен] ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
@@ -165,44 +147,26 @@
             "asa_no_sampo.zip"
          ]
       },
-     {
-         "title": "Совенок в тумане",
+      {
+         "title": "Юля-рут (Альтернативная концовка Юли) [окончен] ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
          [
-            "vkun.zip"
+            "scenario_uvao.zip"
          ]
       },
       {
-         "title": "Восьмой день недели",
+         "title": "7 дней лета [в разработке] ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
          [
-            "day8.zip"
+            "7_dney_leta.zip"
          ]
       },
       {
-         "title": "Грибная поляна",
-         "uri": "http://191.ru/es/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
-         "files":
-         [
-            "mushrooms.zip"
-         ]
-      },
-      {
-         "title": "История Алены",
-         "uri": "http://191.ru/es/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
-         "files":
-         [
-            "unly.zip"
-         ]
-      },
-      {
-         "title": "Бесконечные каникулы (демо)",
+         "title": "Бесконечные каникулы [в разработке] ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
@@ -211,21 +175,57 @@
          ]
       },
       {
-         "title": "Perfect girl (Eng) ",
+         "title": "История Алены [в разработке] ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
          [
-            "perfect_girl.zip"
+            "unly.zip"
          ]
       },
       {
-         "title": "Альтернативная концовка Юли",
+         "title": "Саманта мод [в разработке] ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
          [
-            "scenario_uvao.zip"
+            "samantha.zip"
+         ]
+      },
+      {
+         "title": "Второй шанс [заморожен] ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "scenario_2chance_android.zip"
+         ]
+      },
+      {
+         "title": "Драйв [заморожен] ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "drive_mod.zip"
+         ]
+      },
+      {
+         "title": "Одинокий Совенок [демо] ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "LonelySovenok.zip"
+         ]
+      },
+      {
+         "title": "Переход на конкретный рут [надстройка] ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "route.zip"
          ]
       }
    ]
