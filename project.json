@@ -28,7 +28,16 @@
          [
             "day8.zip"
          ]
-      },      
+      }, 
+      {
+         "title": "Алиса-Мод. Допил[окончен] {13,2 Mb, 2015.11.28} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "Alisa-Mod-Full.zip"
+         ]
+      },
       {
          "title": "Грибная поляна [окончен] {47,9 Mb, 2015.05.03} ",
          "uri": "http://191.ru/es/",
@@ -83,7 +92,25 @@
          [
             "wintermiracle.zip"
          ]
-      },      
+      },   
+      {
+         "title": "Зимная Сказка с озвучкой [окончен] {35,4 Mb, 2015.11.04} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "wintertale.zip"
+         ]
+      },
+      {
+         "title": "Как сделать свой мод [окончен] {2,4 Mb, 2015.11.14} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "How_mm.zip"
+         ]
+      },
       {
          "title": "Мизулин мод (18+) [окончен] {9,8 Mb, 2015.05.07} ",
          "uri": "http://191.ru/es/",
@@ -103,6 +130,24 @@
          ]
       },
       {
+         "title": "Мику-рут из первой версии [окончен] {15 Mb, 2015.11.19} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "miku_old.zip"
+         ]
+      },
+      {
+         "title": "Мод пак с 4pda [окончен] {416 Mb, 2015.11.21} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "Modpack.zip"
+         ]
+      },
+      {
          "title": "Назад в детство (Юльяна-мод) [окончен] {1,9 Mb, 2015.10.23} ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
@@ -118,6 +163,24 @@
          "files":
          [
             "NotSuchLove.zip"
+         ]
+      },
+      {
+         "title": "Ограбление по пионерски [окончен] {83,8 Mb, 2015.11.19} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "scenario_robbery.zip"
+         ]
+      },
+      {
+         "title": "Одинокий Совенок [окончен] {35,2 Mb, 2015.11.14} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "Los.zip"
          ]
       },
       {
@@ -166,12 +229,21 @@
          ]
       },
       {
-         "title": "Бесконечные каникулы [в разработке] {41,1 Mb, 2015.10.27} ",
+         "title": "Бесконечные каникулы [в разработке] {63,1 Mb, 2015.11.27} ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
          [
             "vacations.zip"
+         ]
+      },
+      {
+         "title": "Билет в один конец [в разработке] {146,1 Mb, 2015.11.22} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "nazcamp.zip"
          ]
       },
       {
@@ -193,12 +265,21 @@
          ]
       },
       {
-         "title": "Второй шанс [заморожен] {88,8 Mb, 2015.10.05} ",
+         "title": "Игра на выживание[в разработке] {15,7 Mb, 2015.11.23} ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
          [
-            "scenario_2chance_android.zip"
+            "PlayToSurvivemlg.zip"
+         ]
+      },
+      {
+         "title": "Второй шанс [заморожен] {130,6 Mb, 2015.11.28} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "2chance.zip"
          ]
       },
       {
@@ -217,6 +298,15 @@
          "files":
          [
             "LonelySovenok.zip"
+         ]
+      },
+      {
+         "title": "Совёнок. Вторая Смена. [в разработке] {24,6 Mb, 2015.11.29} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "esst.zip"
          ]
       },
       {
