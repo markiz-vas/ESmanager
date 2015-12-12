@@ -3,7 +3,16 @@
    "packs": 
    [
       {
-         "title": "Perfect girl (Eng) [окончен] {45,3 Mb, 2015.05.02} ",
+         "title": "Readme. Загрузка зависит от качества (скорости) интернета. Обращайте внимание на размер мода. Пока идёт скачивание, другие действия недоступны. Успех - зелёный цвет, ошибка - красный. ВНИМАНИЕ: Изначально моды на андроид не пишутся, они портируются! Портированием занимаются местные умельцы. По всем вопросам или ошибкам обращаться в группу http://vk.com/esmanager. Не стоит доставать создателей модов ошибками со спрайтами, вылетами и прочим, возникшими во время портирования. Авторы мода и авторы порта - это, как правило, РАЗНЫЕ люди!",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "filters_lb.zip"
+         ]
+      },
+	  {
+         "title": "Perfect girl (Ru,Eng) [окончен] {45,2 Mb, 2015.12.06} ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
@@ -21,6 +30,24 @@
          ]
       },      
       {
+         "title": "Алиса-Мод. Допил [окончен] {26,9 Mb, 2015.12.08} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "Alisa-Mod-Full.zip"
+         ]
+      },
+      {
+         "title": "Восемь минут осталось (Eight minutes left) [окончен] {80,5 Mb, 2015.11.09} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "elm.zip"
+         ]
+      },
+      {
          "title": "Восьмой день недели [окончен] {5,9 Mb, 2015.07.15} ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
@@ -28,14 +55,14 @@
          [
             "day8.zip"
          ]
-      }, 
+      },
       {
-         "title": "Алиса-Мод. Допил[окончен] {29 Mb, 2015.12.03} ",
+         "title": "Все хотят в Совёнок [окончен] {8,95 Mb, 2015.07.15} ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
          [
-            "Alisa-Mod-Full.zip"
+            "vcehotatvsovenok.zip"
          ]
       },
       {
@@ -101,6 +128,15 @@
          [
             "wintertale.zip"
          ]
+      },   
+      {
+         "title": "Иванов день [окончен] {26 Mb, 2015.11.28} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "ivanday.zip"
+         ]
       },
       {
          "title": "Как сделать свой мод [окончен] {2,4 Mb, 2015.11.14} ",
@@ -112,14 +148,14 @@
          ]
       },
       {
-         "title": "Мизулин мод (18+) [окончен] {9,8 Mb, 2015.05.07} ",
+         "title": "Лаба по божественному [окончен] {5,39 Mb, 2015.11.28} ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
          [
-            "hentai_android.zip"
+            "laba.zip"
          ]
-      },      
+      },
       {
          "title": "Мику-рут (для оригинального сценария) [окончен] {29,5 Mb, 2015.11.04} ",
          "uri": "http://191.ru/es/",
@@ -130,7 +166,7 @@
          ]
       },
       {
-         "title": "Мику-рут из первой версии [окончен] {15 Mb, 2015.11.19} ",
+         "title": "Мику-рут (из первой версии) [окончен] {15 Mb, 2015.11.19} ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
@@ -175,7 +211,7 @@
          ]
       },
       {
-         "title": "Одинокий Совенок [окончен] {35,2 Mb, 2015.11.14} ",
+         "title": "Одинокий Совёнок [окончен] {35,2 Mb, 2015.11.14} ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
@@ -184,7 +220,7 @@
          ]
       },
       {
-         "title": "Рут Ольга из Заветов пионера [окончен] {19 Mb, 2015.04.26} ",
+         "title": "Ольга-рут (из Заветов пионера + Семён мотает срок и Рандеу с жизнью) [окончен] {115 Mb, 2015.11.19} ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
@@ -193,12 +229,30 @@
          ]
       },
       {
-         "title": "Совенок в тумане [окончен] {20,9 Mb, 2015.11.01} ",
+         "title": "Прогулка с Виолой (Точная дата событий в лагере Совёнок) [окончен] {4,08 Mb, 2015.11.08} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "Vi_t_s.zip"
+         ]
+      },
+      {
+         "title": "Совёнок в тумане [окончен] {20,9 Mb, 2015.11.01} ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
          [
             "vkun.zip"
+         ]
+      },     
+      {
+         "title": "Унесённые ветром [окончен] {9,52 Mb, 2015.11.09} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "gonewtw.zip"
          ]
       },     
       {
@@ -211,6 +265,15 @@
          ]
       },
       {
+         "title": "Чай с тортом [окончен] {2,84 Mb, 2015.11.09} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "tea_with_cake.zip"
+         ]
+      },
+      {
          "title": "Юля-рут (Альтернативная концовка Юли) [окончен] {2,7 Mb, 2015.04.26} ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
@@ -220,12 +283,21 @@
          ]
       },
       {
-         "title": "7 дней лета [в разработке] {342,1 Mb, 2015.10.25} ",
+         "title": "7 дней лета (24b) [в разработке] {366 Mb, 2015.11.07} ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
          [
             "7_dney_leta.zip"
+         ]
+      },
+      {
+         "title": "9 Часов Утра [в разработке] {105 Mb, 2015.11.08} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "NineAM.zip"
          ]
       },
       {
@@ -238,7 +310,16 @@
          ]
       },
       {
-         "title": "Билет в один конец [в разработке] {146,1 Mb, 2015.11.22} ",
+         "title": "Бесконечный холод (На свой страх и риск!) [в разработке] {304 Mb, 2015.11.02} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "ECMod.zip"
+         ]
+      },
+      {
+         "title": "Билет в один конец [в разработке] {146 Mb, 2015.12.12} ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
@@ -247,12 +328,21 @@
          ]
       },
       {
-         "title": "Булки, кефир и рок-н-ролл [в разработке] {192 Mb, 2015.12.03} ",
+         "title": "Булки, кефир и рок-н-ролл [в разработке] {192 Mb, 2015.12.07} ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
          [
             "bkrr_2ep_android.zip"
+         ]
+      },
+      {
+         "title": "Игра на выживание [в разработке] {15,7 Mb, 2015.11.23} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "PlayToSurvivemlg.zip"
          ]
       },
       {
@@ -265,48 +355,39 @@
          ]
       },
       {
+         "title": "Марионетки [в разработке] {76,6 Mb, 2015.11.10} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "Marionetki.zip"
+         ]
+      },
+      {
+         "title": "С красной строки [в разработке] {52,3 Mb, 2015.11.08} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "red_line.zip"
+         ]
+      },
+      {
+         "title": "С того света [в разработке] {17,3 Mb, 2015.11.09} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "live.zip"
+         ]
+      },
+      {
          "title": "Саманта мод [в разработке] {88,9 Mb, 2015.09.17} ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
          [
             "samantha.zip"
-         ]
-      },
-      {
-         "title": "Игра на выживание[в разработке] {15,7 Mb, 2015.11.23} ",
-         "uri": "http://191.ru/es/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
-         "files":
-         [
-            "PlayToSurvivemlg.zip"
-         ]
-      },
-      {
-         "title": "Второй шанс [заморожен] {130,6 Mb, 2015.11.28} ",
-         "uri": "http://191.ru/es/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
-         "files":
-         [
-            "2chance.zip"
-         ]
-      },
-      {
-         "title": "Драйв [заморожен] {22,8 Mb, 2015.10.27} ",
-         "uri": "http://191.ru/es/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
-         "files":
-         [
-            "drive_mod.zip"
-         ]
-      },
-      {
-         "title": "Одинокий Совенок [демо] {4,5 Mb, 2015.09.01} ",
-         "uri": "http://191.ru/es/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
-         "files":
-         [
-            "LonelySovenok.zip"
          ]
       },
       {
@@ -319,12 +400,102 @@
          ]
       },
       {
-         "title": "Переход на конкретный рут [надстройка] {0 Mb, 2015.09.04} ",
+         "title": "Бесконечное лето: продолжение истории [заморожен] {196 Mb, 2015.11.09} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "blpi.zip"
+         ]
+      },
+      {
+         "title": "Второй шанс [заморожен] {130,6 Mb, 2015.11.28} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "2chance.zip"
+         ]
+      },
+	  {
+         "title": "Готов на всё [заморожен] {33,3 Mb, 2015.11.08} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "RTA.zip"
+         ]
+      },
+      {
+         "title": "Драйв [заморожен] {22,8 Mb, 2015.10.27} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "drive_mod.zip"
+         ]
+      },
+      {
+         "title": "Побег из времени (Breakout from Time) [заморожен] {69,8 Mb, 2015.11.09} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "rethink.zip"
+         ]
+      },
+      {
+         "title": "Сценарий ABCB [заморожен] {31,4 Mb, 2015.11.15} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "abcb.zip"
+         ]
+      },
+      {
+         "title": "Последнее лето [демо] {94,3 Mb, 2015.11.08} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "LS.zip"
+         ]
+      },	  
+      {
+         "title": "Мизулин мод (X-Art, 18+) [надстройка] {9,8 Mb, 2015.05.07} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "hentai_android.zip"
+         ]
+      },	  
+      {
+         "title": "Переход на конкретный рут [надстройка] {1.09 Kb, 2015.09.04} ",
          "uri": "http://191.ru/es/",
          "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
          "files":
          [
             "route.zip"
+         ]
+      },
+      {
+         "title": "Спрайты и ЦГ от Орики (Eng,Ru. На свой страх и риск! Перед удалением ОТКЛЮЧИТЬ в фильтрах) [надстройка] {106 Mb, 2015.11.15} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "orica.zip"
+         ]
+      },
+      {
+         "title": "Фильтры от Лолбота (доработка Дмитрий Мосягин) [надстройка] {3.17 Kb, 2015.12.12} ",
+         "uri": "http://191.ru/es/",
+         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "files":
+         [
+            "filters_lb.zip"
          ]
       }
    ]
