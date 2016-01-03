@@ -5,10 +5,10 @@
       {
          "title": "ВНИМАНИЕ! ВНИМАНИЕ! ВНИМАНИЕ! ВНИМАНИЕ! ВНИМАНИЕ! ВНИМАНИЕ! ВНИМАНИЕ!     Загрузчик модов ESmanager обновился!!!!!   Произошли критические обновления не связанные с данной версией. Вы можете узнать новости о развитии загрузчика в группе ВКонтакте: http://vk.com/esmanager . Или нажав на эту запись скачать QtApp-release-signed7.apk в папку: /sdcard/Download/ . Поддержка данной версии загрузчика прекращена.",
          "uri": "http://191.ru/es/",
-         "path": "/sdcard/Android/data/su.sovietgames.everlasting_summer/files/",
+         "path": "/sdcard/Download/",
          "files":
          [
-            "filters_lb.zip"
+            "QtApp-release-signed7.apk"
          ]
       },
 	  {
